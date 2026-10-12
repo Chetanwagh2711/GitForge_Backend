@@ -4,7 +4,7 @@
   "description": "end to end Version Control System . Tried to Clone Gitand GitHub.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js start"
   },
   "keywords": [],
   "author": "Chetan Wagh",
